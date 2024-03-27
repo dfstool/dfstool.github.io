@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[871],{79796:function(e,t,n){n.r(t);var s=n(11774),u=n(22181),c=n(86074);t.default=function(){return(0,c.jsx)(s._z,{ghost:!0,children:(0,c.jsx)(u.ZP,{title:"敬请期待"})})}}}]);
