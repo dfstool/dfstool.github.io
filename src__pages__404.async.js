@@ -1,1 +1,1 @@
-"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[650],{9826:function(t,e,s){s.r(e);var u=s(59530),a=s(22181),n=(s(62435),s(86074));e.default=function(){var t=(0,u.useIntl)().formatMessage({id:"app.intl404"});return(0,n.jsx)(a.ZP,{status:"404",title:"404",subTitle:t})}}}]);
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[4650],{9826:function(t,e,s){s.r(e);var u=s(59530),a=s(22181),n=(s(62435),s(86074));e.default=function(){var t=(0,u.useIntl)().formatMessage({id:"app.intl404"});return(0,n.jsx)(a.ZP,{status:"404",title:"404",subTitle:t})}}}]);
